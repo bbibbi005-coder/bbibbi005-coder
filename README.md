@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">👩‍💻 jaeyoung lee | student 🧩</h1>
-<h3 align="center"><i>"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자"</i></h3>
+
 
 
 
