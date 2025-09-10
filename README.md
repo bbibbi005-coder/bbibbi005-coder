@@ -6,8 +6,8 @@
   <img src="./logo.jpg" height="200px" />
 </p>
 
-👩‍💻 I plan to major in Data science. My long-term goal is to become a data professional who can contribute to innovation
-in technology and society.
+👩‍💻 I plan to major in Data science. My long-term goal is to become a data professional who can contribute 
+to innovation in technology and society.
 
 ---
 
