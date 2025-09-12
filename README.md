@@ -11,4 +11,4 @@ who can contribute to innovation in technology and society.
 
 ---
 
-## 💖 About Me
+##  About Me
