@@ -14,8 +14,8 @@ who can contribute to innovation in technology and society.
 ---
 
 ##  Aboutme
--🐶  MBTI는 ESTP입니다    
--✨  호주유학 준비하고 있습니다
--☺️   취미는 야구보기,넷플릭스보기,노래듣기 입니다
--🍋  친구들이랑 배드민턴,테니스 치는 것도 좋아합니다
+- 🐶  MBTI는 ESTP입니다    
+- ✨  호주유학 준비하고 있습니다
+- ☺️   취미는 야구보기,넷플릭스보기,노래듣기 입니다
+- 🍋  친구들이랑 배드민턴,테니스 치는 것도 좋아합니다
   
