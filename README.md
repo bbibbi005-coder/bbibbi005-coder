@@ -9,6 +9,7 @@
 
 👩‍💻 I plan to major in Data science. My long-term goal is to become a data professional
 who can contribute to innovation in technology and society.
+
 저는 데이터 사이언스 전공을 희망하고있고, 제 장기적인 목표는 기술과 사회의 혁신에 기여할 수 있는 전문인이 되는 것 입니다!!
 
 ---
