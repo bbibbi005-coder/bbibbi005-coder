@@ -8,6 +8,6 @@
 
 
 ## Hi, I'm Jaeyeong 👋  
-Aspiring Dev | IT Major | Future Data Engineer in Australia 🇦🇺
+💻 Aspiring Dev | IT Major | Future Data Engineer in Australia 🇦🇺
 
   
