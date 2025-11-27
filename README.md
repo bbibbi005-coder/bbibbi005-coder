@@ -8,6 +8,6 @@
 </p>
 
 
-<align="center">💻 Aspiring Dev | IT Major | Future Data Engineer in Australia 🇦🇺
+<h5 align="center">💻 Aspiring Dev | IT Major | Future Data Engineer in Australia 🇦🇺
 
   
